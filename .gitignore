@@ -1,0 +1,6 @@
+/hello-go
+.env
+.idea/
+.vscode/
+*.iml
+.DS_Store
